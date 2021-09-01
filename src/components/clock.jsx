@@ -29,7 +29,7 @@ function App() {
 
 
     <div style={{ color: "white", textAlign: "center" }}>
-        <footer>Made with <LoveIcon style={{ color: myAwesomeColor, fontSize: '20' }} className="mb-2"/> by Iron Coder</footer>
+        <footer>Made with <LoveIcon style={{ color: myAwesomeColor, fontSize: '20' }} className="mb-2"/> by Shaurya Rathi</footer>
     </div>
 
     </React.Fragment>
