@@ -12,3 +12,4 @@ Live Site: <a href="https://react-clock-vercel-iron-coder12.vercel.app/">Here</a
 
 <p align="center">
   Made with ❤ by Shaurya Rathi
+  </p>
