@@ -1,13 +1,5 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import Clock from './components/clock';
+import React from "react";
+import ReactDOM from "react-dom";
+import App from "./components/App";
 
-
-ReactDOM.render(
-  <React.StrictMode>
-   <Clock />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-
-
+ReactDOM.render(<App />, document.getElementById("root"));
